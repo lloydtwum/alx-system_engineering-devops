@@ -1,1 +1,1 @@
-this script list files in long format and id
+this creates a directory in tmp dir
