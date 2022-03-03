@@ -1,1 +1,1 @@
-this display content list
+this script changes working directory to users home
