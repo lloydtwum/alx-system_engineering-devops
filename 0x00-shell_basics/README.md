@@ -1,1 +1,1 @@
-this script deletes a directory
+this script moves you one step back
