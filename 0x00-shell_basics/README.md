@@ -1,1 +1,1 @@
-this script move a file from tmp
+this removes or deletes betty
