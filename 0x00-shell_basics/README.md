@@ -1,1 +1,1 @@
-this prints the absolute pathname of current directory
+this display content list
