@@ -1,1 +1,1 @@
-this creates a directory in tmp dir
+this script move a file from tmp
