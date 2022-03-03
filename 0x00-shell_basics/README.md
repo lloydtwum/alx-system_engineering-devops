@@ -1,1 +1,1 @@
-this script changes working directory to users home
+this displays current directory in long format
