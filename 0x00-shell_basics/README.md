@@ -1,1 +1,1 @@
-the script displays current directory contents in longformat with user and id
+the script displays current directory contents in long format with user and id
