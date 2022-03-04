@@ -1,1 +1,1 @@
-this script creates a symbolic link to a directory
+this script copies all the html files from the currentworking directory
