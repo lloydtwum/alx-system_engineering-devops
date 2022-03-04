@@ -1,1 +1,1 @@
-this script copies all the html files from the currentworking directory
+this script moves files that begins with upper case
