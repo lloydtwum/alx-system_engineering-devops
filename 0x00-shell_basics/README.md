@@ -1,1 +1,1 @@
-this script create directories welcome welcome to welcome to school
+this script writes a command that list all files and directories seperated by commas
