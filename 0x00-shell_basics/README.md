@@ -1,1 +1,1 @@
-this script deletes all files in current directory
+this script create directories welcome welcome to welcome to school
