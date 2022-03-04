@@ -1,1 +1,1 @@
-this script moves you one step back
+this script list files in current parent and boot directory
