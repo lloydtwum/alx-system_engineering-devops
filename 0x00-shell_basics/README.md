@@ -1,1 +1,1 @@
-this script list files in current parent and boot directory
+this script prints the file type of iamafile
