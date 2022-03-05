@@ -1,1 +1,1 @@
-this set execute permission to all subdirectories
+this script create dir with permission 751 wd
