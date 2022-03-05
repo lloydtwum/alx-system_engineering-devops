@@ -1,1 +1,1 @@
-this script set ther mode of the file to rwxr x wx
+this creates modeof the file hello the same as olleh
