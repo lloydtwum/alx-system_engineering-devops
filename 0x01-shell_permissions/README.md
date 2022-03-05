@@ -1,1 +1,1 @@
-this script changes ownership for betty
+this script create an empty file
