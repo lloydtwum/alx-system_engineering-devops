@@ -1,1 +1,1 @@
-this script create an empty file
+this script makes hello executable
