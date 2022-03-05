@@ -1,1 +1,1 @@
-this create effective name
+this print groups the current user is part of
