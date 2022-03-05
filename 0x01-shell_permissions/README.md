@@ -1,1 +1,1 @@
-this print groups the current user is part of
+this script changes ownership for betty
