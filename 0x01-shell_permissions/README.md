@@ -1,1 +1,1 @@
-this creates modeof the file hello the same as olleh
+this set execute permission to all subdirectories
