@@ -1,1 +1,1 @@
-this script changes user id to betty
+this create effective name
