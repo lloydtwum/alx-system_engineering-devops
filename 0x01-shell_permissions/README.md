@@ -1,1 +1,1 @@
-this gives permission to everybody
+this gives permission to others only
