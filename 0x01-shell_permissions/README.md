@@ -1,1 +1,1 @@
-this script makes hello executable
+this creates multiple permissions
