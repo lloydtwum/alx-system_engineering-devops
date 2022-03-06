@@ -1,1 +1,1 @@
-this displays the third line of a file
+this script names a file and containing Best School
