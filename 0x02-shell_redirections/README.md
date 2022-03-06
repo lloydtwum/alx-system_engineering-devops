@@ -1,1 +1,1 @@
-this print last 10 lines of a file
+this print the first 10 lines
