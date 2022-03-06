@@ -1,1 +1,1 @@
-finds all empty directories
+this script list all gifs extension in the current dir
