@@ -1,1 +1,1 @@
-this script displays the number of lines that have the bin
+displays the lines containing the pattern root and 3lines after them
