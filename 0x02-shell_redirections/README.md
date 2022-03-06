@@ -1,1 +1,1 @@
-this script displays the content of etcpasswd
+this list content of two files
