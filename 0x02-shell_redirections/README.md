@@ -1,1 +1,1 @@
-this scripts print files that appears once
+this scrtpt displays lines containing a pattern root
