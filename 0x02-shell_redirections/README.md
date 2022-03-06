@@ -1,1 +1,1 @@
-this list content of two files
+this print last 10 lines of a file
