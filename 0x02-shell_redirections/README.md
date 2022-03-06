@@ -1,1 +1,1 @@
-this script duplicate the last line of iacta
+this script finds and deletes all regular files with js extension
