@@ -1,1 +1,1 @@
-this script counts the number of directories
+this script displaysthe 10 newest files in current dir
