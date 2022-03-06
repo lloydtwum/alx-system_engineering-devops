@@ -1,1 +1,1 @@
-this displays all users and their homes sorted by users
+finds all empty directories
