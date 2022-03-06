@@ -1,1 +1,1 @@
-displays the lines containing the pattern root and 3lines after them
+this print files that do not contain the pattern bin
