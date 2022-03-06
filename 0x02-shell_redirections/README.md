@@ -1,1 +1,1 @@
-this print files that do not contain the pattern bin
+displays all lines of a file starting with a letter
