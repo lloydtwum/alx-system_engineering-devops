@@ -1,1 +1,1 @@
-this print the first 10 lines
+this displays the third line of a file
