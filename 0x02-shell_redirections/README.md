@@ -1,1 +1,1 @@
-this script displaysthe 10 newest files in current dir
+this scripts print files that appears once
