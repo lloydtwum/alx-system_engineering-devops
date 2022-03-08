@@ -1,1 +1,1 @@
-this counts the number of directoties in the PATH
+this list environment variables
