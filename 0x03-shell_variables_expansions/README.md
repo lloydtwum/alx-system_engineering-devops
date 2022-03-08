@@ -1,1 +1,1 @@
-this script prints hello user where user is current user
+this add action to the PATH. action should be the last directory the shell looks into
