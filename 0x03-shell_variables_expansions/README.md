@@ -1,1 +1,1 @@
-this add action to the PATH. action should be the last directory the shell looks into
+this counts the number of directoties in the PATH
