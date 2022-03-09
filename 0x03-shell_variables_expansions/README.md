@@ -1,1 +1,1 @@
-this converts a number from base 10 to base 16
+this prints every other line from the input, starting with the first line
