@@ -1,1 +1,1 @@
-this creates a new local variable
+this creates a global variable
