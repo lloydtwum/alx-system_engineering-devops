@@ -1,1 +1,1 @@
-this prints other new line from the input
+this adds the two numbers stored in the envirionment variables WATER and STIR
