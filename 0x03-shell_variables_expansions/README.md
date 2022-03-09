@@ -1,1 +1,1 @@
-this displays the results of breath to the power of love
+this converts a number from base 2 to base 10
