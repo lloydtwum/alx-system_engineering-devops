@@ -1,1 +1,1 @@
-this writes the additon of 128 and the value stored in an environment variable
+this the results of power divided by divide
